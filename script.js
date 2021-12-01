@@ -9,3 +9,6 @@
 
     //Copy the value from the name variable to admin.
         admin = fname;
+
+    //Display the value admin.
+        console.log(admin);
